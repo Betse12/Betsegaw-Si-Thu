@@ -90,3 +90,42 @@ body {
     color: white;
     font-size: 20px;
 }
+
+.projects-section{
+  background-color: #44586e;
+}
+
+.project-title{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.project{
+  display: flex;
+  justify-content: space-around;
+}
+
+.project1{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.project2{
+  margin-right: 20px;
+}
+
+.project3{
+  margin-right: 20px;
+}
+
+.project img{
+  width: 127%;
+  height: 50%;
+}
+
+.prject-section-header{
+  color: white;
+  font-size: 30px;
+}
+
